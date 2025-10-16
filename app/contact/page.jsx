@@ -19,13 +19,8 @@ const info = [
     {
         icon: <FaEnvelope />,
         title: "Email",
-        description: "nfuery@chapman.edu",
-    },
-    {
-        icon: <FaMapMarkerAlt />,
-        title: "School Address",
-        description: "1 University Drive, Orange CA 92866",
-    },
+        description: "noahfuery5@gmail.com",
+    }
 ];
 
 import { motion } from "framer-motion";

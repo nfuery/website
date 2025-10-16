@@ -29,11 +29,11 @@ const about = {
         },
         {
             fieldName: "Personal Email",
-            fieldValue: "noahf2666@gmail.com"
+            fieldValue: "noahfuery5@gmail.com"
         },
         {
-            fieldName: "School Email",
-            fieldValue: "nfuery@chapman.edu"
+            fieldName: "Work Email",
+            fieldValue: "nfuery@roku.com"
         },
 
     ]
@@ -44,28 +44,34 @@ const experience = {
     icon: "/assets/resume/badge.svg",
     title: "My experience",
     description:
-        "Relevant internship and research experience",
+        "Relevant work and research experience",
     items: [
         {
-            company: "Chapman University",
-            position: "C++ Graduate Student Instructor",
-            duration: "August 2024 - Present",
+            company: "Roku, Inc.",
+            position: "Software Engineer, Machine Learning",
+            duration: "December 2025 - Present",
+        },
+        {
+            company: "Roku Inc.",
+            position: "Software Engineering Intern, Machine Learning",
+            duration: "June 2025 - September 2025",
         },
         {
             company: "Chapman University",
-            position: "Calculus I Graduate Student Instructor",
-            duration: "August 2024 - January 2025",
+            position: "Machine Learning Student Researcher",
+            duration: "January 2025 - May 2025",
+        },
+        {
+            company: "Chapman University",
+            position: "Calculus I & C++ Graduate Student Instructor",
+            duration: "August 2024 - May 2025",
         },
         {
             company: "Caltrans - California Department of Transportation",
             position: "Engineering Intern",
             duration: "October 2023 - March 2024",
         },
-        {
-            company: "Chapman University",
-            position: "MLAT Student Researcher",
-            duration: "November 2022 - July 2023",
-        },
+
 
     ]
 };
@@ -75,7 +81,7 @@ const education = {
     icon: "/assets/resume/cap.svg",
     title: "My education",
     description:
-        "My academic career at Chapman University, graduating May 2025.",
+        "My academic career at Chapman University",
     items: [
         {
             institution: "Chapman University",

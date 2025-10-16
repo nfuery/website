@@ -40,9 +40,9 @@ const Photo = () => {
                     xmlns="http://www.w3.org/2000/svg"
                 >
                     <motion.rect
-                        x="-4"
+                        x="-40"
                         y="2"
-                        width="308"
+                        width="380"
                         height="496"
                         stroke="#00ff99"
                         strokeWidth="4"

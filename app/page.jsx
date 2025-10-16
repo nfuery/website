@@ -13,7 +13,7 @@ const Home = () => {
         <div className="flex flex-col xl:flex-row items-center justify-between xl:pt-8 xl:pb-24">
           {/* text */}
           <div className="text-center xl:text-left order-2 xl:order-none">
-            <span className="text-xl">Software Developer</span>
+            <span className="text-xl">Software Engineer</span>
             <PathDrawing />
             {/* button and socials */}
             <div className="flex flex-col xl:flex-row items-center gap-8">
